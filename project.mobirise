@@ -734,6 +734,18 @@
             ".b3": {
               "background-color": "#51add0"
             },
+            ".b4": {
+            "background-color": "#aeffb6"
+            },
+            ".b5": {
+            "background-color": "#9ea0a1"
+            },
+            ".b6": {
+            "background-color": "#bfd70c"
+            },
+            ".b7": {
+            "background-color": "#ffa29d"
+            },
             ".info": {
               "width": "120px",
               "height": "120px",
