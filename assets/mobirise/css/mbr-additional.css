@@ -154,8 +154,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #d4e07d !important;
-  border-color: #d4e07d !important;
+  background-color: #cee13d !important;
+  border-color: #cee13d !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -164,19 +164,19 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #bfd70c !important;
+  background-color: #aaba31 !important;
   border-color: #bfd70c !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #bfd70c !important;
-  border-color: #bfd70c !important;
+  background-color: #aaba31 !important;
+  border-color: #aaba31 !important;
 }
 .btn-success,
 .btn-success:active {
-  background-color: #aeffb6 !important;
-  border-color: #aeffb6 !important;
+  background-color: #30d040 !important;
+  border-color: #30d040 !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -185,14 +185,14 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #57ff68 !important;
-  border-color: #57ff68 !important;
+  background-color: #1f7427 !important;
+  border-color: #1f7427 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #57ff68 !important;
-  border-color: #57ff68 !important;
+  background-color: #1f7427  !important;
+  border-color: #1f7427  !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -1243,13 +1243,13 @@ a {
   background-color: #51add0;
 }
 .cid-t2jmNcOmQW .b4 {
-  background-color: #aeffb6;
+  background-color: #30d040;
 }
 .cid-t2jmNcOmQW .b5 {
   background-color: #9ea0a1;
 }
 .cid-t2jmNcOmQW .b6 {
-  background-color: #d4e07d;
+  background-color: #cee13d;
 }
 .cid-t2jmNcOmQW .b7 {
   background-color: #d86a64;
@@ -1348,7 +1348,7 @@ a {
 .cid-t2jmTn8qG1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #aeffb6;
+  background-color: #30d040;
 }
 @media (max-width: 991px) {
   .cid-t2jmTn8qG1 .wrapper {
@@ -1424,7 +1424,7 @@ a {
 .cid-t2jmTn8qG4 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #d4e07d;
+  background-color: #cee13d;
 }
 @media (max-width: 991px) {
   .cid-t2jmTn8qG4 .wrapper {
